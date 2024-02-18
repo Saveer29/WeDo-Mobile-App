@@ -7,7 +7,7 @@ For project management, we used Jira - https://capstone399.atlassian.net/jira/so
 WeDo is a mobile application(IOS/Android) designed to help people connect through activities. WeDo provides a platform where registered users can join and create events which can range from volunteer work and sports games to online gaming sessions and mahjong. The platform aims to help people of all backgrounds engage in the community and grow lasting connections.
 
 ## Technologies Used
-**Front-end:** React Native, JavaScript, Libraries:N/A <br> 
+**Front-end:** React Native, JavaScript, Libraries: Expo <br> 
 **Back-end:** Node.js <br> 
 **Cloud Services:** AWS Lambda, Cognito, API Gateway, S3 Buckets <br> 
 **API Framework:** Express.js <br> 
