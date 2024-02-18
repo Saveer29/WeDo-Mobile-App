@@ -1,0 +1,10 @@
+import React from "react";
+import { Text } from "react-native";
+import defaultStyles from "../config/defaultStyles";
+
+function AppText({ children, style }) {
+  return <Text style={[defaultStyles.text, style]}>{children}</Text>;
+}
+//We can do the same thing as we did in the colours.js instead of this, lowkey pointless
+
+export default AppText;
